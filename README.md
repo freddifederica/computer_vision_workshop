@@ -42,7 +42,7 @@ check the notebook at http://localhost:8888
 
 ### Extras
 
-Other helpful commands you might need:<br/>
+Other helpful commands you might need: <br/>
 docker container ls <br/>
 docker image ls <br/>
 docker stop <container_name> <br/>
