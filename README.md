@@ -48,4 +48,4 @@ docker image ls <br/>
 docker stop <container_name> <br/>
 docker rm <container_name> <br/>
 
-(use 'exit' or ctrl+c to exit a container bash)
+(type 'exit' to exit a container bash)
